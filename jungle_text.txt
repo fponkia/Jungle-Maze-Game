@@ -1,0 +1,143 @@
+33
+
+Welcome to Jungle Quest!
+You recently obtained an old treasure map in mysterious
+circumstances.  It showed the location of the Lost Jewel of
+Leopold II, evil king of the Congo Free State.  And since you
+have always wanted to be more like Indiana Jones, you have
+mounted an expedition to find it.
+
+Thank you for playing Jungle Quest!
+
+Invalid node.
+
+You are in your campsite in the Congo Rainforest.  Your tent is
+to the east and your jeep is to the south, at the end a broken
+track through the trees.  The jungle to the north looks thin
+enough to push through.
+
+You are in your tent.  It is hot here.  The exit is to the west.
+
+You are in the jungle, wishing you had brought a machete.  There
+is a river to the north and a wetter area to the west.  The
+jungle to the south is thinner and the ground slopes steeply
+upward to the east.
+
+You are in a swampy part of the jungle.  You would be able to go
+north, east, or west from here.
+
+You are in a very wet area, surrounded by a steamy mist.  You
+can't see where you are going, so be careful!
+Suddenly, a hippopotamus looms out of the fog.  Chomp!
+
+You are in your dugout canoe, at the east end of a jungle river.
+A waterfall tumbles down from a ledge to the east.  It would be
+possible to climb the banks of the river to the north and south.
+
+You are in a dugout canoe in a rough portion of a west-flowing
+river.  The banks to the north and south are too steep to climb
+here.
+Suddenly your canoe gets caught in an eddy and flips over.  You
+are trying to right it when a hippopotamus looms out of the fog.
+Chomp!
+
+You are in the jungle, to the north of a river.  There is a
+steep slope to the east, but you should be able to travel north
+or west.
+
+You are deep in the jungle, surrounded by banana trees.  There
+is a more-open are to the west, but the other directions look
+impenetrable.
+
+You are deep in the jungle.  The only way to go from here is
+south.
+
+You are part way up a steep slope, climbing an improvised vine
+rope.  The top of the slope is to the east and the bottom is to
+the west.
+
+You are at the top of a steep slope, just to the south of a
+giant mangosteem tree.  The tree looks climbable, as does the
+slope to the west.  There is a river to the south and
+impenetrable jungle to the east.
+
+You are in a rushing river, near the top of a waterfall.  The
+river banks to the north and south look climable.
+You are swiftly swept over the falls and dashed against the
+rocks below.  Everything goes black.
+You regain consciousness...
+You are in a very wet area, surrounded by a steamy mist.  You
+can't see where you are going, so be careful!
+Suddenly, a hippopotamus looms out of the fog.  Chomp!
+
+You are in the top of a giant mangosteem tree.  The only way to
+go is back down to the south.
+
+You are in your jeep.  You could climb out of the jeep into the
+jungle to the north or drive down a trail leading back to
+civilization to the west.
+
+In time, you reach a road, then a highway, then a city.  It's
+good to be back.
+
+You are at the top of a steep slope, surrounded by impenetrable
+jungle.
+Suddenly, you see something -- probably a poisonous snake! --
+moving through the undergrowth to the south.  You jump away,
+started, and land in a river to the north.
+You are in a rushing river, near the top of a waterfall.  The
+river banks to the north and south look climable.
+You are swiftly swept over the falls and dashed against the
+rocks below.  Everything goes black.
+You regain consciousness...
+You are in a very wet area, surrounded by a steamy mist.  You
+can't see where you are going, so be careful!
+Suddenly, a hippopotamus looms out of the fog.  Chomp!
+
+Ahead of you is a swarm of buzzing mosquitoes.  You don't want
+to get malaria and die, so you return the way you came.
+
+Ahead of you is a swarm of buzzing mosquitoes.  You pull your
+mosquito nets tightly around you.  That's sure to protect you,
+right?
+
+The water looks very murky, so you don't want to swim in it.
+There could be a whole school of piranhas waiting just out of
+sight!
+
+You push your dugout canoe into the water and climb in.
+
+Suddenly an elephant crashes through the undergrowth and flares
+its ears at you.  Afraid that it is going to charge you, you
+clamber up a nearby tree.  After a while, the elephant wanders
+away and you climb back down the tree and retreat to the south.
+
+Suddenly an elephant crashes through the undergrowth and flares
+its ears at you.  Then it gets a smell of your chili peppers and
+turns to wander somewhere else.
+
+The slope looks too steep to climb.  If only you had brought a
+rope of some sort.  Well, maybe you can improvise...
+
+You toss your vine over a branch near the top of the slope and
+use it as a rope.
+
+The tree is full of bonabos.  Several of the the large ones
+(the males?) approach you, screeching.  You quickly retreat back
+to the south.
+
+The tree is full of bonabos.  Several of the the large ones
+(the males?) approach you, screeching.  You hurriedly toss them
+a number of you bananas, and they calm down.
+
+The door is locked.
+
+You use your key to unlock the door.
+
+You are on a narrow dry path in the wet jungle.  The ground
+grows drier to the east and is increasingly swampy to the west.
+
+========================
+
+This game seems to be set in the Eastern Congolian swamp forests.
+I'm not an expert on the area.

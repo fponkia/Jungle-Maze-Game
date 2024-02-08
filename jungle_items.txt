@@ -1,0 +1,33 @@
+8
+
+s	2	5
+There is a safari hat (s) here.
+You are wearing a safari hat (s).
+
+n	2	2
+There is a pile of insecticide-treated mosquito nets (n) here.
+You are draped in insecticide-treated mosquito nets (n).
+
+k	3	3
+The key to your jeep (k) is lying here.
+You have the key to your jeep (k) in your pocket.
+
+d	4	1
+There is a dugout canoe (d) here.
+You are dragging a dugout canoe (d).  It's really heavy!
+
+b	9	2
+There is a big bunch of bananas (b) here.
+You are carrying a big bunch of bananas (b).  They are tasty.
+
+v	10	1
+There is a long vine (v) lying here.
+You have a long vine (v) looped around your arm.
+
+j	14	10
+There is a jewel (j) here.  Or at least a crystal of some sort.
+You are carefully carrying a precious jewel (j).
+
+p	15	1
+There is a bag of chili peppers (p) here.
+You are carrying a bag of chili peppers (p).  Your eyes water.
